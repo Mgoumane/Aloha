@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "symfony/maker-bundle": "^1.49"
+    },
+    "require": {
+        "doctrine/annotations": "^2.0"
+    }
+}
